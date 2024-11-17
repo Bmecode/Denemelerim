@@ -1,0 +1,12 @@
+print(input("Lütfen bir sayı giriniz:"))
+a=input("Lütfen bir sayı giriniz:")
+print("Kullanıcının girdiği değer",a)
+print(type(a))
+print(a*3)
+a=int(input("Lütfen bir sayı giriniz:"))
+print(a*3)
+a= int(input("Birinci Sayı:"))
+b=int(input("İkinci Sayı:"))
+c=int(input("Üçüncü Sayı:"))
+print("Toplamları",a+b+c)
+

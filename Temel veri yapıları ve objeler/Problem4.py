@@ -1,0 +1,5 @@
+Adı= input("Adınız:")
+Soyadı= input("Soyadınız:")
+Tel= input("Telefon Numaranız:")
+print("Bilgiler...")
+print("{}\n{}\n{}\n".format(Adı,Soyadı,Tel))
